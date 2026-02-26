@@ -13,6 +13,7 @@ The `Notebook/` directory contains the following Jupyter notebooks for various a
   - **Task 1**: Advanced ML model implementation.
   - **Task 2**: Deep learning model comparison and analysis.
 - **Assignment 5**: Neural networks and ensemble learning methods.
+- **Assignment 6**: Time series analysis and appliances energy prediction.
 
 ### 📊 Datasets
 The `Dataset/` directory contains the data files used in the notebooks:
@@ -20,6 +21,7 @@ The `Dataset/` directory contains the data files used in the notebooks:
 - `Player.csv`: Player performance data for sports analytics.
 - `UCI_Credit_Card.csv`: Credit card default data for classification.
 - `heart_disease_uci.csv`: Heart disease records for medical prediction.
+- `energydata_complete.csv`: Appliances energy usage data for time series prediction.
 
 ---
 **Created by**: Vedant Panchal (23AIML042)
